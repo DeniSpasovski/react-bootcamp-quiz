@@ -1,0 +1,11 @@
+@import "../../../../../style/configs/color";
+
+.question {
+  max-width: 400px;
+  ul{
+    li {
+      list-style-type: none;
+      cursor: pointer;
+    }
+  }
+}
